@@ -4,4 +4,4 @@ This is a development version of a single page made in REACT dedicated to inform
 
 It illustrates basic topics in REACT
 
-The link is [here](https://GGoffaux.github.io/React_demo_connect4).
+The link is [here](https://ggoffaux.github.io/React_demo_GranChelem/).
